@@ -1,0 +1,42 @@
+.hero_div{
+    background-color:#2C2C2C;
+  
+}
+.hero_div1{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    padding-left: 100px;
+
+
+}
+.circle3{
+    border-radius: 300px;
+    background-color: #F9A826;
+width: 50%;
+    height: 250px;
+    margin-top: 180px;
+    margin-bottom: 70px;   
+}
+.hero_hdng1{
+   
+    margin-top: 40px;
+    padding-top: 40px;
+    margin-left: 120px;
+    margin-right: 40px;
+    width: 50%;
+}
+.hero_hdng1 h2{
+    color: #fff;
+    font-size: 36px;
+}
+.hero_hdng1 p{
+    color: #fff;
+    font-size: 18px;
+}
+
+.btnn_2{
+    display: flex;
+    margin-left: 140px;
+    gap: 40px;
+}

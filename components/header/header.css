@@ -1,0 +1,27 @@
+.header_div1{
+    background-color:#2C2C2C ;
+}
+.h_div1{
+    display: flex;
+    justify-content: space-evenly;
+    color:#FFFFFF;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-left: 650px;
+padding: 10px;
+}
+.h_circle{
+    margin-left: 100px;
+}
+.circle1{
+    border-radius: 100px;
+    background-color:#C4C4C4;
+    width: 45px;
+height: 24px;
+}
+.circle2{
+border-radius: 30px;
+background-color:black;
+width: 26px;
+height: 24px;
+}
